@@ -19,7 +19,7 @@ class MenuItem{
     title: 'Botones',
     subTitle: 'Varios botones', 
     link: '/buttons', 
-    icon: Icons.smart_buton_outlined),
+    icon: Icons.smart_button_outlined),
     MenuItem(
     title: 'Tarjeta', 
     subTitle: 'Varias Tarjetas', 
